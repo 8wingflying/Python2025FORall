@@ -11,7 +11,7 @@
     - 類別與類別的`繼承` ==> 父類別 與 子類別
       - 抽象類別(abstract class) 與抽象方法(abstract method)
     - 多型
-  - overloading(多載) 與Overridding(覆寫)
+  - Overloading(多載) 與Overridding(覆寫)
 - 1B.錯誤處理與異常(Error Handling and Exceptions)
 - 2A.Python模組(module)開發
 - 2B.Python內建模組(Python Built-in modules)
@@ -46,3 +46,6 @@
 ## 線上學習資源
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python 基础教程](https://www.runoob.com/python/python-tutorial.html)
+
+## 崑山資工學生專屬
+- https://github.com/MyDearGreatTeacher/python2024
