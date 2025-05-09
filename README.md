@@ -32,8 +32,11 @@
     - matplotloib
     - seaborn
 
-### 進階python與物件導向程式設計(未完成)
+### 進階Python物件導向程式設計(未完成)
 - 參考推薦書籍
+- Python Design Pattern
+- Python Functional Programming
+- Python Concurrent Programming
 
 ### 資料結構與演算法(第3學期課程)
 ### 機器學習(IPAS AI應用規劃師 課程)
