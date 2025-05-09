@@ -44,8 +44,7 @@
 - Python Functional Programming
 - Python Concurrent Programming
 
-### 資料結構與演算法(第3學期課程)
-- [**APCS-大學程式設計先修檢測**](https://apcs.csie.ntnu.edu.tw/)
+### 資料結構與演算法(第3學期課程) [**APCS-大學程式設計先修檢測**](https://apcs.csie.ntnu.edu.tw/)
 ### 機器學習(**IPAS AI應用規劃師(中階) 課程**)
 ### 人工智慧與深度學習(**IPAS AI應用規劃師(中階) 課程**)
 ### 生成式AI(**IPAS AI應用規劃師(中階) 課程**)
