@@ -20,13 +20,19 @@
 ### 常用Python第三方套件實作
 - python網路爬蟲技術
   - urllib3
-  - bs4 
+  - bs4
+  - scrapy
+    - https://scrapy.org/
+    - https://github.com/scrapy/scrapy
+    - https://www.runoob.com/w3cnote/scrapy-detail.html 
+- python網路神器 ==> scapy
+  - https://www.osgeo.cn/scapy/index.html 
 - python網站開發技術:
   - Streamlit
   - gradio
   - flask
   - fastapi
-- 資料科學與資料分析(IPAS AI應用規劃師 課程)
+- 資料科學與資料分析(IPAS AI應用規劃師(初/中階) 課程)
   - nmupy | pandas
   - 資料視覺化
     - matplotloib
@@ -39,9 +45,9 @@
 - Python Concurrent Programming
 
 ### 資料結構與演算法(第3學期課程)
-### 機器學習(IPAS AI應用規劃師 課程)
-### 人工智慧與深度學習(IPAS AI應用規劃師 課程)
-### 生成式AI(IPAS AI應用規劃師 課程)
+### 機器學習(IPAS AI應用規劃師(中階) 課程)
+### 人工智慧與深度學習(IPAS AI應用規劃師(中階) 課程)
+### 生成式AI(IPAS AI應用規劃師(中階) 課程)
 
 ## 線上學習資源
 - [Python Tutorial](https://www.w3schools.com/python/)
