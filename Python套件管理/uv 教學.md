@@ -6,6 +6,7 @@
 > 它結合了 **pip + virtualenv + pip-tools + poetry** 的功能，是未來 Python 套件管理的新主流。
 > 
 > https://docs.astral.sh/uv/getting-started/
+> 
 > https://www.youtube.com/watch?v=aVXs8lb7i9U
 
 ---
