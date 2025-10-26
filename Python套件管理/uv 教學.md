@@ -36,6 +36,11 @@ uv --version
 
 ---
 
+## windows平台安裝
+```
+PS> powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
 ## 🧱 三、基本指令 | Basic Commands
 
 | 指令 | 功能 | 範例 |
@@ -61,6 +66,15 @@ uv --version
 | 移除環境 | `uv venv remove <name>` |
 
 ---
+
+```
+uv venv # 用 .venv 資料夾建立虛擬環境
+uv venv --python 3.11 # 指定 Python 版本
+uv pip install ruff # 在虛擬環境安裝套件
+source .venv/bin/activate # 啟用虛擬環境
+# .venv\Scripts\activate # Windows
+deactivate # 退出虛擬環境
+```
 
 ## 🧪 五、專案初始化與開發流程 | Project Workflow
 
