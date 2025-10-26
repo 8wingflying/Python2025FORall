@@ -6,9 +6,10 @@
     - 類別與類別的`繼承` ==> 父類別 與 子類別
     - 多型
   - overloading(多載) 與Overridding(覆寫)
-- Python模組(module)開發
-  - Python內建模組(Python Built-in modules)
-- Python套件(package)開發
+- Python模組(module)
+  - [Python內建模組(Python Built-in modules)](Python內建模組.md)
+- Python套件(package)
+  - Python套件(package)開發 
 - 進階python與物件導向程式設計 ==> 參考推薦書籍
 
 ## 推薦書籍
