@@ -1,6 +1,8 @@
 # Python2025FORall
 - A.基礎Python程式設計
 - B.Python物件導向程式設計
+- [Python套件管理](Python套件管理.md)
+
 ### 基礎Python程式設計
 
 ### Python物件導向程式設計 
