@@ -65,3 +65,7 @@
 - [演算法戰鬥營：爆量題庫新手燒腦篇|陳小玉](https://www.tenlong.com.tw/products/9789860776836?list_name=rd)
 - [Python 面試題目與解答 -- 邁向高薪之路|洪錦魁](https://www.tenlong.com.tw/products/9789865501365?list_name=srh)
 - [Python 程序員面試筆試通關攻略|聚慕課教育研發中心](https://www.tenlong.com.tw/products/9787302615637?list_name=srh)
+## Python 科學計算
+- [Python 科學計算, 2/e|[英]　約翰·M. 斯圖爾特（John M. Stewart）　著](https://www.tenlong.com.tw/products/9787111633907?list_name=sp)
+  - Python for Scientists, 2/e)
+- [Python 3.0 科學計算指南 (Scientific Computing with Python 3)](https://www.tenlong.com.tw/products/9787115481146?list_name=sp)
